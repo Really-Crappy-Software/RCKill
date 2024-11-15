@@ -1,2 +1,2 @@
-gcc rcmat.c -o rcmat
-sudo cp rcmat /usr/bin
+gcc rckill.c -o rckill
+sudo cp rckill /usr/bin
